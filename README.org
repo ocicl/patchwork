@@ -1,0 +1,10 @@
+* patchwork
+
+Mirror of https://git.mfiano.net/mfiano/patchwork
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/patchwork.git   |
+| commit  | a5c04c0  |
+| systems | patchwork |
+|---------+-------------------------------------------|
+
